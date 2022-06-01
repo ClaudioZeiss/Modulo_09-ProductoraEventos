@@ -6,7 +6,8 @@ _Se pueden crear, borrar y actualizar tanto los Grupos como los Eventos_
 ## Para bajar el Proyecto en formato ZIP🚀
 
 _Bajar el proyecto, haciendo Click en el boton_
-_***Download ZIP*** el archivo_
+_***Download ZIP*** para bajar el archivo_
+_Parte superios derecha boton ***CODE***_
 
 ### Instalación 🔧
 
